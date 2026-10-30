@@ -82,10 +82,10 @@ I'm a BCA graduate and aspiring software developer from Bihar, India, interested
 
 | Project | What it does | Tech / Concepts | Live Demo |
 | :-- | :-- | :-- | :-: |
-| 📝 **Todo App** | Create, update, delete, and save tasks in the browser. | JavaScript, DOM, Local Storage | [View Demo](#) |
-| 🌦️ **Weather App** | Search for a city and view current weather information. | JavaScript, Fetch API, OpenWeather API | [View Demo](#) |
-| 🛒 **E-Commerce Shopping Cart** | Add products to a cart and manage cart items and totals. | JavaScript, DOM, Event Delegation, Local Storage | [View Demo](#) |
-| 👤 **Portfolio Website** | A personal website to introduce myself and showcase my work. | HTML, CSS, JavaScript | [View Demo](#) |
+| 📝 **Todo App** | Create, update, delete, and save tasks in the browser. | JavaScript, DOM, Local Storage | [View Demo](https://satyamace.github.io/todo-app/) |
+| 🌦️ **Weather App** | Search for a city and view current weather information. | JavaScript, Fetch API, OpenWeather API | [View Demo](https://satyamace.github.io/weather-app/) |
+| 🛒 **E-Commerce Shopping Cart** | Add products to a cart and manage cart items and totals. | JavaScript, DOM, Event Delegation, Local Storage | [View Demo](https://satyamace.github.io/E-Commerce-Shopping-Cart/) |
+| 👤 **Portfolio Website** | A personal website to introduce myself and showcase my work. | HTML, CSS, JavaScript | [View Demo](https://satyamace.github.io/portfolio/) |
 
 <details>
 <summary><b>📌 Project highlights — click to expand</b></summary>
@@ -105,20 +105,16 @@ I'm a BCA graduate and aspiring software developer from Bihar, India, interested
 
 <div align="center">
 
-<a href="https://github.com/Satyamace">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyamace&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Satyam's GitHub stats">
-</a>
-<a href="https://github.com/Satyamace">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamace&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</a>
+<img src="https://img.shields.io/github/followers/Satyamace?style=for-the-badge&logo=github&logoColor=white&color=36BCF7&labelColor=1a1b27" alt="GitHub followers">
+<img src="https://img.shields.io/badge/Top_Languages-JavaScript_•_HTML_•_CSS-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="Top languages">
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Satyamace&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" width="70%">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamace&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="95%">
+<img src="https://ghchart.rshah.org/36BCF7/Satyamace" alt="GitHub contribution chart" width="95%">
 
 </div>
 
